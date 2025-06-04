@@ -1,0 +1,1 @@
+con ls -a se ven archivos ocultos

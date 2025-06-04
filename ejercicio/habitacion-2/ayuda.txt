@@ -1,0 +1,2 @@
+puedes listar el continido de una carpeta
+sin necesidad de moverte en ella con: ls carpeta
